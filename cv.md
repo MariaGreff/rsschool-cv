@@ -17,3 +17,13 @@ Mariia Kuzmicheva
     * BEM;
     * JavaScript;
     * React JS;
+4. Experience in coding and examples of work: None.
+5. Education:
+    * 2012/2016 - Bachelor of Laws. Moscow State University
+    * 2016/2017 - Master of Laws. Nijmegen University (the Netherlands)
+    * September 2019 / January 2020 - HTML Academy
+    * January 2020/present - React course on Udemy
+6. Knowledge of languages:
+    * Russian - native speaker
+    * English - C1 (advanced) - confirmed by academic IELTS
+    * Dutch - A2
