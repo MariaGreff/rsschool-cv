@@ -1,0 +1,65 @@
+body {
+  font-family: Verdana, sans-serif;
+  background-color: rgb(236, 227, 200);
+}
+
+.wrapper {
+  margin: 0 auto;
+  max-width: 1024px;
+  min-width: 680px;
+}
+
+.full-name {
+  font-size: 32px;
+  font-weight: 700;
+  text-align: left;
+  padding: 20px 20px;
+}
+
+.photo-portfolio {
+  width: 15%;
+  height: 15%;
+  display: flex;
+  justify-content: right;
+  border-radius: 5%;
+}
+.main {
+  line-height: 2;
+  margin: 0 20px;
+}
+
+.introduction {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 5%;
+}
+
+h2 {
+  font-size: 28px;
+  font-weight: 700;
+  margin: 10px 0 10px 30px;
+  color: rgba(109, 22, 97, 0.822);
+}
+
+.text-bold {
+  font-weight: 700;
+}
+
+.experience-list {
+  list-style-type: square;
+  margin-left: 10px;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: rgba(109, 22, 97, 0.822);
+}
+
+a:hover {
+  color: rgb(12, 137, 187);
+}
+
+.footer {
+  height: 50px;
+}
